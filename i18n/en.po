@@ -6,23 +6,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "go up"
-msgstr "go up"
+msgstr "أعلى"
 
 # zone names
 msgid "Africa"
-msgstr "Africa"
+msgstr "إفريقيا"
 
 msgid "Asia"
-msgstr "Asia"
+msgstr "آسيا"
 
 msgid "North America"
-msgstr "North America"
+msgstr "أمريكا الشمالية"
 
 msgid "South America"
-msgstr "South America"
+msgstr "أمريكا الجنوبية"
 
 msgid "Europe"
-msgstr "Europe"
+msgstr "أوربا"
 
 msgid "Oceania"
 msgstr "Oceania"
